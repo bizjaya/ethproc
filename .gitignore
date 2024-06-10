@@ -8,6 +8,8 @@
 # Auto-generated files
 *.sln.ide
 
+*.vsidx
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
